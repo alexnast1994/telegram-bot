@@ -1,4 +1,4 @@
-package ru.rus.controller;
+package ru.telegram.test.bot.controller;
 
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Value;
